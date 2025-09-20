@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻I am working as a programmer<br>👨‍💻I am a full programmer<br>⭐My favorite language is Javascript<br>
+💻I'm working as a Developer<br>👨‍💻I am a full-stack developer<br>⭐My favorite language is Javascript<br>
 
 
 # 💻 Tech Stack:
@@ -14,6 +14,3 @@
 
   ## 💰 You can help me by Donating
   [![Support me on Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dgeleiacompepinoo%26type%3Dpatrons&style=flat)](https://patreon.com/geleiacompepinoo)
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
