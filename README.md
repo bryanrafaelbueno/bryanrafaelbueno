@@ -12,5 +12,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=GeleiaComPepino&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![Support me on Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dgeleiacompepinoo%26type%3Dpatrons&style=flat)](https://patreon.com/geleiacompepinoo)
+## 💰 You can help me by Donating
+[![Support me on Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dgeleiacompepinoo%26type%3Dpatrons&style=flat)](https://patreon.com/geleiacompepinoo)
