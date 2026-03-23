@@ -1,5 +1,6 @@
 # 💫 About Me:
-💻 Student of Systems Development (SENAI) with 5+ years of practical programming experience.<br>
+💻 Student of Systems Development (SENAI) with 5+ years of practical programming experience.
+</br></br>
 🚀 I focus on software development, with experience in:
 - Web applications (JavaScript, HTML, CSS)
 - Desktop systems (Java, JavaFX)
