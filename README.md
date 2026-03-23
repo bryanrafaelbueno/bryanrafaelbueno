@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻I'm working as a Developer<br>👨‍💻I am a full-stack developer<br>⭐My favorite language is Javascript<br>
+💻 Student of Systems Development (SENAI) with 5+ years of practical programming experience.<br>
 
 
 # 💻 Tech Stack:
