@@ -19,5 +19,5 @@
 [![](https://visitcount.itsvg.in/api?id=bryanrafaelbueno&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 💰 You can help me by Buying me a Coffee!
-[![BuyMeACoffee](https://raw.githubusercontent.com/pachadotdev/buymeacoffee-badges/main/bmc-yellow.svg)](https://buymeacoffee.com/geleiacompepino)
+<a href="https://www.buymeacoffee.com/bryanrafaelbueno" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
